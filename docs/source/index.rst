@@ -20,5 +20,6 @@ Contents
 
    usage
    api
+   here_be_dragons
 
 Lumache has its documentation hosted on Read the Docs.
