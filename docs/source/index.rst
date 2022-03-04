@@ -1,13 +1,8 @@
-Welcome to Lumache's documentation!
+Welcome to Pydex's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Pydex** is a Python library for Python modellers who are keen to design maximally
+informative experiments to calibrate their mathematical models.
 
 .. note::
 
@@ -17,9 +12,8 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
-   here_be_dragons
-
-Lumache has its documentation hosted on Read the Docs.
+    :maxdepth: 2
+    essentials/installation
+    essentials/dependencies
+    essentials/references
+    essentials/citing_pydex
