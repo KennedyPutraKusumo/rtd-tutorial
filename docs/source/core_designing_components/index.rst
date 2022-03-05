@@ -2,4 +2,4 @@ CORE DESIGNING COMPONENTS
 #########################
 
 ..  toctree::
-    supported_solvers.rst
+    supported_solvers
