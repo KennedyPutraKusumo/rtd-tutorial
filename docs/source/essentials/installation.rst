@@ -1,7 +1,5 @@
-API
-===
+Installation
+============
 
-.. autosummary::
-   :toctree: generated
 
    lumache

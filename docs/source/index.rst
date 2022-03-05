@@ -12,8 +12,4 @@ Contents
 --------
 
 .. toctree::
-    :maxdepth: 2
-    essentials/installation
-    essentials/dependencies
-    essentials/references
-    essentials/citing_pydex
+    essentials/index.rst
