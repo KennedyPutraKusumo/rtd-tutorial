@@ -12,4 +12,7 @@ Contents
 --------
 
 .. toctree::
+    introduction.rst
     essentials/index.rst
+    basic_workflow/index.rst
+    core_designing_components/index.rst

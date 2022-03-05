@@ -1,3 +1,6 @@
+Essentials
+##########
+
 ..  toctree::
     installation.rst
     dependencies.rst
