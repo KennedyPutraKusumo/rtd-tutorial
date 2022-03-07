@@ -1,6 +1,6 @@
 .. _importing_packages:
 Importing Packages
-==================
+##################
 To import the core functionalities of Pydex, we import the Designer class:
 ::
     from pydex.core.designer import Designer

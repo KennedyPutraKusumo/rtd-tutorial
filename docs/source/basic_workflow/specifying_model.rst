@@ -14,5 +14,6 @@ in the order given above. The argument :code:'ti_controls' is short for :emphasi
 experimental controls. Likewise, :code:'tv_controls' is short for :emphasis:'T'ime-:emphasis:'V'arying Controls.
 
 When modelling non-dynamic systems --- no time-varying and sampling times --- there
-are two alternative ways to define the model function. The first is to keep
+are two alternative ways to define the model function.
 
+This page is under construction.
