@@ -1,2 +1,4 @@
 ..  toctree::
-    importing_packages.rst
+    importing_packages
+    instantiating_designer
+    specifying_model
