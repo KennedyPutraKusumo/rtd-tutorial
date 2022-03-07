@@ -3,4 +3,4 @@ Selected Examples
 #################
 ..  toctree::
     quickstart
-    ode_examples
+    ode_example
