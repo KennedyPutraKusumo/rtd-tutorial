@@ -18,6 +18,6 @@ Core Designing Components
     apportion
     enumerate_candidates
     evaluate_residuals
-    evaluate_fim
-    evaluate_pim
+    eval_fim
+    eval_pim
     norm_sens
