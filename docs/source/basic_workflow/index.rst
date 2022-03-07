@@ -6,3 +6,9 @@ Basic Workflow
     importing_packages
     instantiating_designer
     specifying_model
+    specifying_components
+    initialize
+    design_experiment
+    print_optimal_design
+    plot_optimal_design
+    apportion
